@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .zoom {
+  
+   
+    transition: transform .5s;
+    ;
+  }
+  
+  .zoom:hover {
+    
+    transform: scale(1.5); 
+  }
+  .imgbr {
+   filter: grayscale(90%);
+  }
+  .imgbr:hover{
+      filter: grayscale(0%);
+    }
+    
+    .we{
+      text-shadow: 12px;
+
+    };
+    .we:hover {
+      text-align: center;
+      background-color: aquamarine;
+    };
