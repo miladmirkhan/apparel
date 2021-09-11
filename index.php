@@ -265,7 +265,7 @@
  <!-- about apparel-->
  <div class="row" align="center">
   <div class="col-12 col-lg-6">
-    <img src="./pics/plant 10.jpg" class="rounded float-start" class="img-thumbnail" >
+    <img src="./pics/plant 10.jg" class="rounded float-start" class="img-thumbnail" >
   </div>
   <div class="col-12 col-lg-6" class="fa fa-align-left">
     <div class="row" >
